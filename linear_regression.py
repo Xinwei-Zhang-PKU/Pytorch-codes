@@ -1,3 +1,4 @@
+# https://jovian.ai/aakashns/02-linear-regression
 import numpy as np
 import torch
 
